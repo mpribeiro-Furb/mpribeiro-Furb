@@ -30,7 +30,7 @@ Aqui você encontrará:
 
 | 🏫 Instituição | 📖 Curso | 📅 Período |
 |:---:|:---:|:---:|
-| FURB — Universidade Regional de Blumenau | Bacharelado em Ciências de Dados | 2025 — em andamento |
+| FURB — Universidade Regional de Blumenau | Bacharelado em Ciências de Dados | 2026 — em andamento |
 
 </div>
 
@@ -97,3 +97,4 @@ Aqui você encontrará:
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:4F46E5&height=120&section=footer" width="100%"/>
 
 </div>
+
