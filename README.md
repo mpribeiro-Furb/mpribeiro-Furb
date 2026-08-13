@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=200&section=header&text=mpribeiro&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Bacharelado%20em%20Ciências%20de%20Dados%20•%20FURB&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=200&section=header&text=mpribeiro&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Bacharelado%20em%20Ci%C3%AAncias%20de%20Dados%20%E2%80%A2%20FURB&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=4F46E5&center=true&vCenter=true&width=600&lines=Estudante+de+Ciências+de+Dados+%F0%9F%93%8A;FURB+•+2º+Semestre+•+BCD;Apaixonado+por+dados+e+código+%F0%9F%92%BB;Sempre+aprendendo...+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=4F46E5&center=true&vCenter=true&width=600&lines=Estudante+de+Ci%C3%AAncias+de+Dados+%F0%9F%93%8A;FURB+%E2%80%A2+2%C2%BA+Semestre+%E2%80%A2+BCD;Apaixonado+por+dados+e+c%C3%B3digo+%F0%9F%92%BB;Sempre+aprendendo...+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
 
@@ -97,4 +97,3 @@ Aqui você encontrará:
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:4F46E5&height=120&section=footer" width="100%"/>
 
 </div>
-
