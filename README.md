@@ -1,42 +1,42 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=200&section=header&text=mpribeiro&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Bacharelado%20em%20Ci%C3%AAncias%20de%20Dados%20%E2%80%A2%20FURB&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=200&section=header&text=mpribeiro&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Bacharelado%20em%20Ciencias%20de%20Dados%20•%20FURB&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=4F46E5&center=true&vCenter=true&width=600&lines=Estudante+de+Ci%C3%AAncias+de+Dados+%F0%9F%93%8A;FURB+%E2%80%A2+2%C2%BA+Semestre+%E2%80%A2+BCD;Apaixonado+por+dados+e+c%C3%B3digo+%F0%9F%92%BB;Sempre+aprendendo...+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=4F46E5&center=true&vCenter=true&width=600&lines=Estudante+de+Ciencias+de+Dados;FURB+•+2+Semestre+•+BCD;Apaixonado+por+dados+e+codigo;Sempre+aprendendo...)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## 👨‍🎓 Sobre este perfil
+## Sobre este perfil
 
-> 📌 **Esta conta é dedicada exclusivamente ao armazenamento e organização dos conteúdos do curso de Bacharelado em Ciências de Dados (BCD) na [FURB](https://www.furb.br) — 2º Semestre.**
+> Esta conta e dedicada exclusivamente ao armazenamento e organizacao dos conteudos do curso de **Bacharelado em Ciencias de Dados (BCD)** na [FURB](https://www.furb.br) — **2 Semestre**.
 
-Aqui você encontrará:
-- 📚 Códigos desenvolvidos nas aulas
-- 📊 Projetos e exercícios práticos
-- 📄 Materiais de estudo e resumos
-- 🗂️ Organização por disciplina/semestre
+Aqui voce encontrara:
+- Codigos desenvolvidos nas aulas
+- Projetos e exercicios praticos
+- Materiais de estudo e resumos
+- Organizacao por disciplina/semestre
 
 ---
 
-## 🎓 Formação
+## Formacao
 
 <div align="center">
 
-| 🏫 Instituição | 📖 Curso | 📅 Período |
+| Instituicao | Curso | Periodo |
 |:---:|:---:|:---:|
-| FURB — Universidade Regional de Blumenau | Bacharelado em Ciências de Dados | 2026 — em andamento |
+| FURB — Universidade Regional de Blumenau | Bacharelado em Ciencias de Dados | 2026 — em andamento |
 
 </div>
 
 ---
 
-## 📂 Repositórios por Disciplina
+## Repositorios por Disciplina
 
 <div align="center">
 
@@ -46,7 +46,7 @@ Aqui você encontrará:
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+## Tecnologias & Ferramentas
 
 <div align="center">
 
@@ -61,7 +61,7 @@ Aqui você encontrará:
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -78,14 +78,14 @@ Aqui você encontrará:
 
 ---
 
-## 🗺️ Roadmap de Estudos — 2º Semestre BCD
+## Roadmap de Estudos — 2 Semestre BCD
 
 ```
-✅ Programação Orientada a Objetos (Java)
-⬜ Estruturas de Dados
-⬜ Banco de Dados Relacional
-⬜ Estatística Aplicada
-⬜ Cálculo / Álgebra Linear
+[x] Programacao Orientada a Objetos (Java)
+[ ] Estruturas de Dados
+[ ] Banco de Dados Relacional
+[ ] Estatistica Aplicada
+[ ] Calculo / Algebra Linear
 ```
 
 ---
